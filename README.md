@@ -17,7 +17,7 @@ Hence, we declare a fixed number of ‘process execution threads’ / ‘worker 
 <br /><br /><br />
 
 ### MS Visual C# Console App coding
-[PeriodicTask_ThreadPool_WaitState.cs.txt](actual URL to navigate)
+[PeriodicTask_ThreadPool_WaitState.cs.txt](https://github.com/lksark/PeriodicTasks/blob/main/PeriodicTask_ThreadPool_WaitState.cs.txt)
 
 <br /><br />
 The program doesn’t execute the periodic tasks correctly at the beginning, I still wonder why.
